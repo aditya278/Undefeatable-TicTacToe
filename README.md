@@ -5,4 +5,4 @@ The AI is made using the MiniMax algorithm. The MiniMax algorithm is a kind of B
 
 The two players in a MiniMax algorithm are called Maximizer and Minimizer. The goal of the maximizer is to move at such place where the the score will be maximum and the goal of the minimizer is to play the move such the the score is the minimum.
 
-In this code, the AI follows the same set of conditions. The call to the MiniMax method is recurssive, i.e. the AI will compute all the possible moves using backtracking approach. The move which will provide the most optimal path such that the score of the AI is always the heighest will be chosen. As the AI has already predicted the best moves of the player, the game will either be a Draw or the AI will be the winner. 
+In this code, the AI follows the same set of conditions. The call to the MiniMax method is recurssive, the AI will compute all the possible moves using backtracking approach. The move which will provide the most optimal path such that the score of the AI is always the highest will be chosen. As the AI has already predicted the best moves of the player, the game will either be a Draw or the AI will be the winner. 
